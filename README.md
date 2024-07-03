@@ -10,7 +10,7 @@ show note from youtube video ->
 
 ##### zsh default themes
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-edit .zshrc 
+edit .zshrc
 ZSH_THEME="jonathan"
 
 ##### Install ohmyzsh

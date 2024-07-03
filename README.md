@@ -10,7 +10,9 @@ show note from youtube video ->
 
 ##### zsh default themes
 https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
+
 edit .zshrc
+
 ZSH_THEME="jonathan"
 
 ##### Install ohmyzsh
@@ -37,5 +39,7 @@ download and install firamono for linux
 `git clone https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k`
 
 edit .zshrc
+
 ZSH_THEME="powerlevel10k/powerlevel10k"
+
 POWERLEVEL9K_MODE="nerdfont-complete"

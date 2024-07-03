@@ -1,5 +1,6 @@
 ## Pimp Your Terminal
 show note from youtube video ->
+![term.jpg](term.jpg)
 
 ##### Install ZSH
 `sudo apt install zsh`

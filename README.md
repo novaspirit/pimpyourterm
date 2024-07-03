@@ -34,7 +34,9 @@ https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 ##### Nerd Font
 https://www.nerdfonts.com/
+
 https://github.com/ryanoasis/nerd-fonts/tree/master/patched-fonts/FiraMono
+
 download and install firamono for linux
 
 ##### Install Powerlevel 10k
